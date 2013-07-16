@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "btree", "btree.vcxproj", "{F257E0D3-7E03-4F77-A9FC-9FE5D00CB6AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F257E0D3-7E03-4F77-A9FC-9FE5D00CB6AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F257E0D3-7E03-4F77-A9FC-9FE5D00CB6AD}.Debug|Win32.Build.0 = Debug|Win32
+		{F257E0D3-7E03-4F77-A9FC-9FE5D00CB6AD}.Release|Win32.ActiveCfg = Release|Win32
+		{F257E0D3-7E03-4F77-A9FC-9FE5D00CB6AD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
