@@ -75,5 +75,9 @@ void b::Node::SetN(size_t n)
         keys_.resize(n);
     }
 
+    if (children_.size() > n + 1) {
+        children_.resize(n + 1);
+    }
+
     n_ = n;
 }

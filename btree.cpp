@@ -14,6 +14,17 @@ int main(int argc, char** argv)
     tree.Insert('f');
     tree.Insert('g');
     tree.Insert('h');
-
+    tree.Insert('i');
+    tree.Insert('j');
+    tree.Insert('k');
+    tree.Insert('l');
+    tree.Insert('m');
+    tree.Insert('n');
+    tree.Insert('o');
+    tree.Insert('p');
+    tree.Insert('q');
+    tree.Insert('r');
+    tree.Insert('s');
+    
 	return 0;
 }
